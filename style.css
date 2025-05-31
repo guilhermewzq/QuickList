@@ -22,4 +22,12 @@
 
 body {
     font-size: 1.6rem;
+    padding: 3.2rem;
+    background: var(--background-primary);
+}
+
+header {
+    margin-bottom: 4.4rem;
+    max-width: 62.7rem;
+    margin-inline: auto;
 }
